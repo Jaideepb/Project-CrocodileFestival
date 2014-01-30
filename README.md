@@ -1,6 +1,6 @@
 Project-CrocodileFestival
 =========================
 
-To complete 100 programs/mini-projects in C++
+Interesting Problems 
+Languages:  C++
 
-1. The Knight's tour problem 
